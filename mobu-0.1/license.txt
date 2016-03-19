@@ -24,3 +24,22 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+UOlola
+ mod developed by UjEdwin and modified by ULLA 
+ THE Ujedwin code licence is:
+ Copyright (C) UjEdwin 2016
+
+
+Its only 2 agruments.
+You are not alowed to take files from the mod and use to other things (but ok to link from to other mods).
+You have to show me (UjEdwin) as the orginal creater (if you want to make another version / spread the mod)
+
+It does not mather what you is doing with the mod as long you folow this 2 agruments.
+
+So: its ok to do stuff like: use in public servers/edit/spread/upload/make an update / using in videos (like youtube)...
+
+
+The reasons the the arguments.
+It does not feel good if someone takes hard work and or characteristics of your work, and says its him self that created it.
+In some mods i spended more then 30 hours... so its a good reason to add this license :-)
