@@ -1,5 +1,5 @@
 local path = minetest.get_modpath("mobu")
-
+dofile(path.."/UOlola.lua")
 
 -- Mob Api
 
@@ -231,4 +231,3 @@ minetest.register_craftitem("mobu:green_blood", {
 	description = "green_blood",
 	inventory_image = "mobu_green_blood.png",
 })
-
