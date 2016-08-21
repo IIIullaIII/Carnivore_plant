@@ -1618,7 +1618,7 @@ minetest.register_entity(name, {
 		return minetest.serialize(tmp)
 	end,
 
-	on_punch = function(self, hitter, tflp, tool_capabilities, dir)
+	new_on_punch = function(self, hitter, tflp, tool_capabilities, dir)
 
 		-- no punch punch spamming
 		if tflp < 0.45 then
