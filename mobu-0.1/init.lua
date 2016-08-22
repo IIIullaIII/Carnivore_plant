@@ -38,7 +38,7 @@ mobu:register_mob("mobu:carnivore_plant",
 	view_range = 6,
 	floats = 0,
 	drops =  {
-		{name = "mobs:bee",
+		{name = "mobu:UOlola",
 		chance = 15, min = 1, max = 1},
 	}, 
        
@@ -60,13 +60,13 @@ mobu:register_mob("mobu:carnivore_plant",
   --      follow = {"mobs:bee", "farming:seed_cotton"},
 	--view_range = 5,
 
-	--on_rightclick = function(self, clicker)
-	--	mobu:feed_tame(self, clicker, 8, true, true)
-	--	mobu:capture_mob(self, clicker, 30, 50, 80, true, nil)
-	--end,
+on_rightclick = function(self, clicker)
+	mobu:feed_tame(self, clicker, 8, true, true)
+	mobu:capture_mob(self, clicker, 30, 50, 80, true, nil)
+end,
 
-        	on_die = function(self, pos)
-		minetest.set_node(pos, {name = "fire:basic_flame"})
+        	new_on_pounch = function(self, pos)
+		minetest.set_node(pos, {name = "mobu;UOlola"})
 	end,
 })
 
